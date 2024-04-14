@@ -111,6 +111,7 @@ li{
         padding: 5px;
         cursor: pointer;
         flex-direction: row;
+        display: none;
         float: right;
     }
 }
